@@ -41,5 +41,6 @@ El proyecto, en la carpeta `LawyerPage`, contiene los siguientes componentes que
 - Form
 - Carrusel
 
-resultado_imagenes_proyecto/page1.png
+
+![Página 1](resultado_imagenes_proyecto/page1.png)
 
