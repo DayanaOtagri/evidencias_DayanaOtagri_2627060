@@ -9,4 +9,4 @@ Componente front-end del proyecto formativo y proyectos de clase  GA7-220501096-
 Diseño y Desarrollo de servicios web - proyecto GA7-220501096-AA5-EV03: El proyecto tiene una carpeta llamada LawyerPage, dentro de ella se puede evidenciar los componentes: Card, Navbar, Form, Carrusel que componen la pagina web
 Taller sobre codificación de módulos del software GA9-220501096-AA1-EV01: El proyecto tiene una carpeta llamada LawyerPage, dentro de ella se puede evidenciar los componentes: Card, Navbar, Form, Carrusel que componen la pagina web
 
-"C:\Users\heidy\OneDrive\Imágenes\page3.png"
+
