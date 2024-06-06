@@ -1,0 +1,27 @@
+.container {
+  gap: 80px; 
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: space-between;
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  right: 0px;
+}
+
+.content > * {
+  flex: 1;
+}
+
+
+.carousel {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 30px;
+
+}

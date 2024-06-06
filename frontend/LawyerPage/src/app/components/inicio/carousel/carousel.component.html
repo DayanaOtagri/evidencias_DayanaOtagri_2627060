@@ -1,0 +1,32 @@
+<div class="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item" [ngClass]="{ 'active': currentIndex === 0 }">
+      <img src="assets\img\img-1.jpg" class="d-block w-100" alt="Primera imagen">
+    </div>
+    <div class="carousel-item" [ngClass]="{ 'active': currentIndex === 1 }">
+      <img src="assets\img\img-2.jpg" class="d-block w-100" alt="Segunda imagen">
+    </div>
+    <div class="carousel-item" [ngClass]="{ 'active': currentIndex === 2 }">
+      <img src="assets\img\img-3.jpg" class="d-block w-100" alt="Tercera imagen">
+    </div>
+    <div class="carousel-item" [ngClass]="{ 'active': currentIndex === 3 }">
+      <img src="assets\img\img-4.jpeg" class="d-block w-100" alt="Tercera imagen">
+    </div>
+  </div>
+  <button class="carousel-control-prev" (click)="prevSlide()">&lt;</button>
+  <button class="carousel-control-next" (click)="nextSlide()">&gt;</button>
+
+  <div class="carousel-indicators">
+    <div class="indicator" [ngClass]="{ 'active': currentIndex === 0 }"></div>
+    <div class="indicator" [ngClass]="{ 'active': currentIndex === 1 }"></div>
+    <div class="indicator" [ngClass]="{ 'active': currentIndex === 2 }"></div>
+    <div class="indicator" [ngClass]="{ 'active': currentIndex === 3 }"></div>
+  </div>
+
+</div>
+
+<div class="container">
+  <h3 class="intro-title">¡Descubre soluciones legales que impulsan tu éxito!</h3>
+  <p>En [Nombre de la Empresa], ofrecemos asesoramiento legal de primera clase para emprendedores, empresas y familias. Desde la creación de tu empresa hasta la protección de tus derechos, estamos aquí para brindarte la guía experta que necesitas. ¡Haz que el camino legal sea más fácil y eficiente con nosotros!</p>
+</div>
+

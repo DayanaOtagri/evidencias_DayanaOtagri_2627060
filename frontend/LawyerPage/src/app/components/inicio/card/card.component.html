@@ -1,0 +1,22 @@
+<div class="card-container">
+  <div class="card"
+       *ngFor="let servicio of servicios; let i = index"
+       [class.flipped]="flipped[i]"
+       (mouseenter)="toggleFlip(i, true)"
+       (mouseleave)="toggleFlip(i, false)">
+    <div class="front">
+
+      <img [src]="servicio.img" alt="Imagen del servicio" class="card-img">
+      <div class="card-content">
+        <h2>{{ servicio.titulo }}</h2>
+        <p>{{ servicio.descripcionDelantera }}</p>
+      </div>
+    </div>
+    <div class="back">
+
+      <div class="card-content">
+        <p>{{ servicio.descripcionTrasera }}</p>
+      </div>
+    </div>
+  </div>
+</div>

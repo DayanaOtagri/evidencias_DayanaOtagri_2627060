@@ -1,0 +1,37 @@
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.footer-left {
+  display: flex;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-item {
+  margin-bottom: 10px;
+}
+
+.footer-icon {
+  color: white;
+  z-index: 2;
+  text-decoration: none;
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.footer-icon:hover {
+  color: #007bff; 
+}
