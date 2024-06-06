@@ -43,4 +43,9 @@ El proyecto, en la carpeta `LawyerPage`, contiene los siguientes componentes que
 
 
 ![Página 1](resultado_imagenes_proyecto/page1.png)
+![Página 2](resultado_imagenes_proyecto/page2.png)
+![Página 3](resultado_imagenes_proyecto/page3.png)
+![Página 4](resultado_imagenes_proyecto/page4.png)
+![Página 5](resultado_imagenes_proyecto/page5.png)
+
 
