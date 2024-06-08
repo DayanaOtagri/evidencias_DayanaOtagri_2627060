@@ -1,0 +1,50 @@
+[
+  {
+    "plate": "XYZ789",
+    "serial_number": "987654321",
+    "model": "Prado",
+    "brand": "Toyota",
+    "mileage": 75000,
+    "type": "SUV"
+  },
+  {
+    "plate": "ABC123",
+    "serial_number": "123456789",
+    "model": "Sedan",
+    "brand": "Toyota",
+    "mileage": 50000,
+    "type": "Car"
+  },
+  {
+    "plate": "FRR123",
+    "serial_number": "987654321",
+    "model": "Ferrari 488",
+    "brand": "Ferrari",
+    "mileage": 15000,
+    "type": "Sports Car"
+  },
+  {
+    "plate": "MIN456",
+    "serial_number": "123456789",
+    "model": "Mini Cooper S",
+    "brand": "Mini",
+    "mileage": 30000,
+    "type": "Hatchback"
+  },
+  {
+    "plate": "KIA789",
+    "serial_number": "234567890",
+    "model": "Aveo Family",
+    "brand": "Kia",
+    "mileage": 25000,
+    "type": "Subcompact Car"
+  },
+  {
+    "plate": "REN456",
+    "serial_number": "345678901",
+    "model": "Renault Logan",
+    "brand": "Renault",
+    "mileage": 35000,
+    "type": "Sedan"
+  }
+]
